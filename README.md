@@ -1,4 +1,4 @@
-# Real-Time Chat App
+# SocketChat
 
 A simple **real-time chat application** built using **Node.js**, **Socket.IO**, and **Vanilla JavaScript**. Users can join the chat, send messages, and see when other users connect or disconnect.
 
@@ -50,7 +50,3 @@ chat-app/
 ├── script.js         # Frontend JavaScript for handling socket events
 └── README.md         # Project documentation
 ```
-
-## License
-
-MIT License
