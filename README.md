@@ -4,6 +4,9 @@ A simple **real-time chat application** built using **Node.js**, **Socket.IO**, 
 
 <img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/61a60173-d72d-477d-88c7-496b2e0c8563" />
 
+## Demo Video
+Watch this demo video --> https://drive.google.com/file/d/1aRF9FyfdX6-u9pa21oOWWQZQ9T3RFkxf/view?usp=sharing
+
 ## Features
 
 - Real-time chat between multiple users
