@@ -2,6 +2,8 @@
 
 A simple **real-time chat application** built using **Node.js**, **Socket.IO**, and **Vanilla JavaScript**. Users can join the chat, send messages, and see when other users connect or disconnect.
 
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/61a60173-d72d-477d-88c7-496b2e0c8563" />
+
 ## Features
 
 - Real-time chat between multiple users
