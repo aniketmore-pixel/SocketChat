@@ -55,3 +55,4 @@ chat-app/
 ├── script.js         # Frontend JavaScript for handling socket events
 └── README.md         # Project documentation
 ```
+
